@@ -41,7 +41,7 @@ course[1:5]
 We can use formatted strings to dynamically insert values into our strings:
 
 - name = ‘Mrtl’
-- message = ’Hi, my name is {name}’
+- message = f’Hi, my name is {name}’  ( f stands for .format)
 - message.upper() # to convert to uppercase
 - message.lower() # to convert to lowercase
 - message.title() # to capitalize the first letter of every word
