@@ -7,7 +7,7 @@ import sys
 #     except ValueError:
 #         print('I caught a value error!')
 #     except:
-#         print(f'an error occured: {sys.exc_info()}') #tells us which error
+#         print(f'an error occurred: {sys.exc_info()}') #tells us which error
 #     # except ZeroDivisionError:
 #     #     print('no dividing by zero!')
 #     else:

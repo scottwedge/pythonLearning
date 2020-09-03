@@ -11,4 +11,4 @@ x = { "a": 1, "b: 2, "c": 3 }
 x = { 1, 2, 3, 4, 5}
 
 # these structures can contain any object, 
-# and can be used to represent simple or complex structued data
+# and can be used to represent simple or complex structured data
